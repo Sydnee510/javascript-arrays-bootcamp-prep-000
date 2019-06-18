@@ -8,4 +8,3 @@ var chocolateBars = [
   function addElementToBeginningOfArray(chocolateBars,foo) {
     return [candyString, ...chocolateBars];
   }
-  chocolateBars.unshift
