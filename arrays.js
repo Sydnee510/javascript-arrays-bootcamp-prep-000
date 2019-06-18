@@ -4,4 +4,4 @@ var chocolateBars = [
   'kit kat',
   'skittles']; 
   
-  chocolateBars.unShift('milky way')
+  chocolateBars.unShift('foo', 1)
